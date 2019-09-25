@@ -7,4 +7,4 @@ curl http://www.mega-nerd.com/libsndfile/files/libsndfile-1.0.28.tar.gz -s -O
 # make a directory to untar (like unzip) the binary
 mkdir -p vendor/libsndfile
 # untar the binary to the directory we want
-tar -C vendor/libsndfile -xvf libsndfile.tar.gz
+tar -C vendor/libsndfile -xvf libsndfile-1.0.28.tar.gz
